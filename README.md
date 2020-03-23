@@ -30,3 +30,12 @@ We train our data using cross validation with 5 folds. We performed this cross v
 
 ### Graphing
 Lastly, we graph the most popular words associated with positive/negative tweets, in order to gain a better understanding of the tweets we are working with.
+
+### Bibliography
+Sources we used to complete this version of the project:
+
+Das, Deepak. “Social Media Sentiment Analysis Using Machine Learning : Part - I.” Medium, Towards Data Science, 18 Oct. 2019, towardsdatascience.com/social-media-sentiment-analysis-49b395771197.
+
+Naji. “Twitter Sentiment Analysis Training Corpus (Dataset).” Thinknook, thinknook.com/twitter-sentiment-analysis-training-corpus-dataset-2012-09-22/.
+
+Inzaugarat, Euge. “Learning How to Perform Twitter Sentiment Analysis.” Medium, Towards Data Science, 20 Apr. 2019, towardsdatascience.com/keras-challenges-the-avengers-541346acb804.
